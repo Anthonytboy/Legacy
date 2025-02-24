@@ -96,13 +96,3 @@ a:visited{
   margin-top: 40px;
 
 }
-
-
-@media(max-width:1000px){
-  #main-header{
-    float: none;
-    width: 100%;
-  }
-}
-
-
